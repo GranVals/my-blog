@@ -101,4 +101,9 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: http://github.com/GranVals/my-blog.git
+  branch: gh-pages
+  
+
+  
